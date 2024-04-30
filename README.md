@@ -1,4 +1,5 @@
 Welcome to InxtraCloud
+
 About Us
 InxtraCloud is a leading provider of hosting solutions, offering a wide range of services including Web Hosting, Game Hosting, Discord Bot Hosting, VPS Hosting, and Dedicated Servers. Our mission is to empower businesses, developers, and gamers with reliable and scalable hosting solutions, backed by exceptional support and cutting-edge technology.
 
@@ -19,10 +20,10 @@ Harness the power of virtualization with our VPS Hosting solutions. Whether you'
 For high-demand applications and resource-intensive workloads, our Dedicated Servers deliver unmatched performance and reliability. With dedicated hardware and resources, you can customize your server to meet your specific requirements, ensuring optimal performance for your projects.
 
 Getting Started
-To get started with our hosting services, simply visit our website at www.inxtracloud.com and explore our range of offerings. Once you've selected the service that best fits your needs, you can sign up for an account and deploy your hosting environment within minutes.
+To get started with our hosting services, simply visit our website at www.inxtra.cloud/ and explore our range of offerings. Once you've selected the service that best fits your needs, you can sign up for an account and deploy your hosting environment within minutes.
 
 Support
-At InxtraCloud, we pride ourselves on providing exceptional customer support. If you have any questions, issues, or feedback, our team of experts is here to help. You can reach us through our support portal or by emailing support@inxtracloud.com.
+At InxtraCloud, we pride ourselves on providing exceptional customer support. If you have any questions, issues, or feedback, our team of experts is here to help. You can reach us through our support portal or by emailing support@inxtra.cloud.
 
 Community
 Join our community to stay updated on the latest news, announcements, and promotions. Follow us on Twitter and Facebook to join the conversation and connect with fellow users.
